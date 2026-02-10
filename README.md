@@ -1,6 +1,5 @@
 # 🏎️ Formula 1 Championship Analysis (1950-2024)
 
-
 A comprehensive Formula 1 data analysis and prediction platform built with Streamlit and custom machine learning implementations. This application provides historical insights, predictive analytics, and performance clustering for F1 championship data from 1950 to 2024.
 
 ## 🌟 Features
@@ -11,12 +10,10 @@ A comprehensive Formula 1 data analysis and prediction platform built with Strea
 - Detailed historical statistics and trends
 
 
-
 ### 🏁 Race Position Prediction
 - Custom Linear Regression implementation
 - Grid position and driver-based finish position prediction
 - Real-time prediction interface with accuracy metrics
-
 
 
 ### 🏆 Podium Prediction
@@ -60,8 +57,8 @@ A comprehensive Formula 1 data analysis and prediction platform built with Strea
 
 1. Clone the repository:
 ```bash
-git clone vhttps://github.com/pavankumar2004/F1_PREDICTIONS_AND_ANALYSIS.git
-cd F1_PREDICTIONS_AND_ANALYSIS
+git clone https://github.com/OmPrakashP22/Formula-1-Analysis
+cd Formula-1-Analysis
 ```
 
 2. Install required packages:
@@ -134,17 +131,7 @@ The application uses Formula 1 championship data from 1950 to 2024, including:
 - Plotly
 - PIL (Python Imaging Library)
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Formula 1 for the historical data
 - The Streamlit team for the amazing framework
@@ -152,6 +139,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Pavan kumar S G- pk6122004@gmail.com
-
-Project Link: [https://github.com/pavankumar2004/F1-predictions-and-analysis]
+Om Prakash P - omprakash.psgtech@gmail.com
